@@ -26,9 +26,6 @@
   <a href="https://www.linkedin.com/in/divyanshsharma-x-ai" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" />
   </a>
-  <a href="https://leetcode.com/u/sharmadivyansh022/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-500%2B%20Problems-orange?style=for-the-badge&logo=leetcode" alt="leetcode" />
-  </a>
   <a href="mailto:sharmadivyansh022@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
   </a>
