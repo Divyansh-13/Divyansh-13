@@ -16,7 +16,7 @@
 - ☁ Experienced in deployments using **AWS, Firebase, Vercel**
 - 💬 Ask me about **Python, ML, Deep Learning, DSA, System Design**
 - 📫 Reach me: **sharmadivyansh022@gmail.com**
-# - 🌐 Portfolio: **[your-portfolio-link.com](https://your-portfolio-link.com)** <!-- replace when ready -->
+<!-- - 🌐 Portfolio: **[your-portfolio-link.com](https://your-portfolio-link.com)**  replace when ready -->
 
 ---
 
