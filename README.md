@@ -81,8 +81,8 @@
 ## 📈 GitHub & Coding Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Divyansh-13&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=Divyansh-13&theme=tokyonight" alt="GitHub Streak" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Divyansh-13&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+  <img height="160" src="https://streak-stats.demolab.com?user=Divyansh-13&theme=tokyonight" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
